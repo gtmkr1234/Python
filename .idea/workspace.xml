@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="189d1d5e-a080-4b82-81c9-1a7cb77dc2f7" name="Changes" comment="init" />
+    <list default="true" id="189d1d5e-a080-4b82-81c9-1a7cb77dc2f7" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
         </map>
       </branch-storage>
     </favorite-branches>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="241H7z1me78twSql3VBmpKw2XvY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642791009059</updated>
-      <workItem from="1642791010669" duration="1448000" />
+      <workItem from="1642791010669" duration="1645000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1642791052534</created>
